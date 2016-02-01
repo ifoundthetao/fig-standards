@@ -4,7 +4,7 @@ There are two aspects with dealing with security issues: One is the process
 by which security issues are reported and fixed in projects, the other
 is how the general public is informed about the issues and any remedies
 available. While PSR-9 addresses the former, this PSR, ie. PSR-10, deals with
-the later. So the goal of PSR-10 is to define how security issues are disclosed
+the latter. So the goal of PSR-10 is to define how security issues are disclosed
 to the public and what format such disclosures should follow. Especially today
 where PHP developers are sharing code across projects more than ever, this PSR
 aims to ease the challenges in keeping an overview of security issues in all
